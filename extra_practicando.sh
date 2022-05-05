@@ -16,3 +16,18 @@ for (( i = 0; i <= 13; i ++ ))
     echo "${meses[i]}"
 
 done
+
+letra="e"
+
+for i in {1..5}
+  do
+  
+    for j in {a..$letra}
+      do
+        echo "$i      $j" 
+
+    done
+  
+
+  done
+

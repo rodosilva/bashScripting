@@ -15,3 +15,4 @@ echo "GID: $4"
 echo "Description: $5"
 echo "Home Directory: $6"
 echo "Current Shell: $7"
+
